@@ -55,7 +55,6 @@ public class MazeSolver {
         int currentRow = -1;
         int currentCol = -1;
 
-        // YOUR CODE HERE!
         for (int i = 0; i < maze.length; i++)
         {
         	for (int j = 0; j < maze[0].length; j++)
